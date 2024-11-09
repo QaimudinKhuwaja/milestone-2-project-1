@@ -31,9 +31,9 @@ export default function RootLayout({
       > {/* navbar start */}
       <ul>
         
-        <li><link href="/" ></link><h1>Home</h1></li>
-        <li><link href="./OtherGames"></link><h1>Other Games</h1></li>
-        <li><link href="./Contact"></link><h1>Contact</h1></li>
+        <li><a href="/" ><h1>Home</h1></a></li>
+        <li><a href="./OtherGames"><h1>Other Games</h1></a></li>
+        <li><a href="./Contact"><h1>Contact</h1></a></li>
         
         </ul>  
           

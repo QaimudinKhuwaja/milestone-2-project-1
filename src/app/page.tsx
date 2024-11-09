@@ -1,4 +1,6 @@
-import Image from "next/image"
+// import Image from "next/image"
+// import head from "next/head"
+// import spider from './public/spider.png'
 const page = () => {
   return (
     <>
@@ -7,7 +9,8 @@ const page = () => {
 
 
 
-        <div ><img id="img" src="./spider.png" alt=""></img></div>
+      <div ><img id="img" src="spider.png" alt="" />
+        </div>
 
 
 
